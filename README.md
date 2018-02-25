@@ -4,7 +4,7 @@ Scrapes a URL and stores the contents. It provides a RESTful API to index a page
 # Installation instructions
 
 - git clone
-- Go to root directory of page_scrapper
+- Go to root directory of rails-page-scrapper
 - `bundle install`
 - Configure database.yml as per your local settings
 - Create database by executing command `rake db:create`
