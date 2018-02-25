@@ -1,4 +1,4 @@
-# page_scrapper
+# rails-page-scrapper
 Scrapes a URL and stores the contents. It provides a RESTful API to index a page's content.
 
 # Installation instructions
